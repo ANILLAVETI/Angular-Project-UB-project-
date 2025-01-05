@@ -1,1 +1,2 @@
-# Angular-Project-UB-project-
+# UB-project
+This is a Angular Project
